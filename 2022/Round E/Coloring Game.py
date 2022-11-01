@@ -8,4 +8,3 @@ while case<=test_cases:
         cells = cells - 5
     print("Case #" + str(case) + ": " + str(bot))
     case = case+1
-
