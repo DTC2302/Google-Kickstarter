@@ -22,4 +22,3 @@ while case <= cases:
     if case != cases:
         empty_line = input()
     case+=1
-    
